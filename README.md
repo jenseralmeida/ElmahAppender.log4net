@@ -36,4 +36,8 @@ Sample Log4net config:
   
    <b>Note:</b> A second nuget package was created with the dependancy for log4net dropped to 1.2.10 and .Net 2.0. There were complications getting both 1.2.10 and 1.2.11 dependencies to work in the same package.
    That second package can be found [Here](https://nuget.org/packages/elmahappender_log4net_1.2.10/)
+   
+   
+   ## Download
+   https://www.nuget.org/packages/ElmahAppender.log4net
   
