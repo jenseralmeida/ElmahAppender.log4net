@@ -1,6 +1,9 @@
 ElmahAppender.log4net
 ========================
 
+![NuGet](https://img.shields.io/badge/nuget-v1.0.1-blue.svg)
+
+
 This package is a fork of https://github.com/edwinf/log4net---ELMAH-Appender and all the code was implemented by the original author. This package only modernize the .net stack of the original one.
 
 This appender will allow log4net to be configured to send log messages to ELMAH directly.  This way ELMAH can be the log manager of record for sites while still allowing specific logging parameters to be controlled with log4net as usual.
